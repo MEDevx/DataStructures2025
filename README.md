@@ -1,2 +1,2 @@
 # DataStructures2025
- This is submission for Laboratory Activity #1 in ICT 02.
+ This is my submission for Laboratory Activity #1 in ICT 02.
